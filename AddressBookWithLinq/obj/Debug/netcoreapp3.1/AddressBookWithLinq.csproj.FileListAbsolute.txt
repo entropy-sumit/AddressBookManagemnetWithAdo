@@ -1,0 +1,14 @@
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.exe
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.deps.json
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.runtimeconfig.json
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.dll
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.pdb
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.AssemblyInfo.cs
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.dll
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.pdb
+C:\Users\sumit\source\repos\AddressBookWithLinq\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.genruntimeconfig.cache
